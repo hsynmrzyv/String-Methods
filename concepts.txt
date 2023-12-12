@@ -1,0 +1,35 @@
+use strict * 
+Objects
+Call, apply, bind
+
+Math methods
+abs *
+ceil *
+floor *
+round *
+trunc *
+min *
+max *
+pow *
+
+String methods
+at
+charAt
+concat *
+endsWith *
+startsWith *
+includes *
+indexOf *
+padEnd *
+padStart *
+repeat *
+replace *
+replaceAll *
+slice *
+split *
+toLowerCase *
+toUpperCase *
+trim *
+trimEnd *
+trimStart *
+
